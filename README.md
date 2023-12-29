@@ -29,9 +29,11 @@ curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
 ```
 
 #### Quick Feature Overview
-- Create one user account which serves multiple protocols(```ssh```,```dropbear```,```udp custom```,``` udp request```, ```ws```,    ```ws-epro```)
-- Account Backup & Restore
-- Account password & expiry update
+- Create one user account which serves multiple protocols(```ssh```,```dropbear```,```udp custom```,``` udp request```, ```ws```,    ```ws-epro```).
+- Account Backup & Restore.
+- Account password & expiry update.
+- Torrent Blocker
+- Script Autorun on startup.
 
 #### Protocols
 - SSH
