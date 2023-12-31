@@ -19,8 +19,9 @@ curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
 
 
 #### Requirement
-- Linux base System ```VPS```
-- An install key ```❗️```
+- A Linux base System ```VPS```
+- Domain _(eg: udp.voltssh.xyz)_
+- An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
 - Common sense
 
 #### Script - Supported OS
@@ -29,7 +30,9 @@ curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
 - debian 12 
 
 #### Quick Feature Overview
-- Create one user account which serves multiple protocols(```ssh```, ```ssl-tunnel```, ```dropbear```, ```udp custom```, ``` udp request```, ```ws```,    ```ws-epro```, ```hysteria1```, ```hysteria2```).
+- Create one user account which serves multiple protocols(```ssh```, ```ssl-tunnel```, ```dropbear```, ```udp custom```, ``` udp request```, ```ws```,    ```ws-epro```).
+-  ```hysteria1``` → Multiple accounts supported ✅
+-  ```hysteria2``` → Multiple accounts in our updates.
 - Account Backup & Restore.
 - Account password & expiry update.
 - Torrent Blocker
