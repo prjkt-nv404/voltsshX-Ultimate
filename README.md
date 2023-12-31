@@ -6,6 +6,15 @@
 #
 ***_Unleash the Power of Seamless SSH Script Management with Python &amp; UDP Capabilities!_***
 
+#### Install:
+```
+sudo -s
+```
+```
+curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
+
+```
+
 <center><img src="https://github.com/prjkt-nv404/voltsshX-Ultimate/raw/main/assets/voltsshXUltimate.png" alt="banner" width="500"/></center>
 
 
@@ -19,17 +28,8 @@
 - ubuntu 22 _(partial)_
 - debian 12 
 
-#### Install:
-```
-sudo -s
-```
-```
-curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
-
-```
-
 #### Quick Feature Overview
-- Create one user account which serves multiple protocols(```ssh```,```dropbear```,```udp custom```,``` udp request```, ```ws```,    ```ws-epro```).
+- Create one user account which serves multiple protocols(```ssh```, ```ssl-tunnel```, ```dropbear```, ```udp custom```, ``` udp request```, ```ws```,    ```ws-epro```, ```hysteria1```, ```hysteria2```).
 - Account Backup & Restore.
 - Account password & expiry update.
 - Torrent Blocker
