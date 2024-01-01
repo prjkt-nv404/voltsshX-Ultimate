@@ -46,8 +46,9 @@ curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
 - WebSocket(```WS-ePRO```)
 - UDP Custom
 - UDP Request
-- Hysteria 1&2 _(coming in future updates)_
+- Hysteria 1&2 (```Note: not all countries supported```)
 - ZiVPN _(coming in future updates)_
+- OpenVPN _(future updates)_
 
 #### Panel Language
 - English 🇬🇧 🇺🇸
