@@ -54,11 +54,11 @@ curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
 - English 🇬🇧 🇺🇸
 
 #### Telegram 
- > [💲 PayBot/Key](https://t.me/voltverifybot) - ```Keys & Payment```
+ > [💲 Pay](https://t.me/voltverifybot) - ```Keys & Payment```
 
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏](https://t.me/voltsshx) - ```Admin```
+ > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx) ```Admin```
 
- > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷-𝕏 Club ⚝](https://t.me/voltsshxclub) - ```Channel```
+ > [📣 LS Tunnel](https://t.me/lstunnel) - ```Channel```
 
 #### Credit
 - All binary owners
