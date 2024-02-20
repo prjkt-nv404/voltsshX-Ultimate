@@ -1,4 +1,3 @@
-
 **voltsshX-Ultimate** - ```an easy to use script!```
 
 
@@ -53,12 +52,25 @@ curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
 #### Panel Language
 - English 🇬🇧 🇺🇸
 
+#### Changelog
+
+<details class="details" style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer;">🔨 1 new commit (<a href="https://github.com/vxu007/vxu/compare/99db8072f2e1...68c9a86b461f" target="_blank">https://github.com/vxu007/vxu/compare/99db8072f2e1...68c9a86b461f</a>) to vxu:main</summary>
+  <ul>
+    <li><strong>Commit:</strong> <a href="https://github.com/vxu007/vxu/commit/68c9a86b461f2d48a3604d0af51b2de0bf415aa0" target="_blank">68c9a86</a></li>
+    <li><strong>[update]</strong> UDP Request server updated to v2.1</li>
+    <li><strong>[add/new]</strong> Webmin panel added</li>
+    <li><strong>[update]</strong> Debian environment support</li>
+    <li><strong>[update]</strong> userbackup file DL channel/link port update by vxu007</li>
+  </ul>
+</details>
+
 #### Telegram 
- > [💲 Pay](https://t.me/voltverifybot) - ```Keys & Payment```
+ > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
- > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx) ```Admin```
+ > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏 🧑‍💻](https://t.me/voltsshx)  ```Admin```
 
- > [📣 LS Tunnel](https://t.me/lstunnel) - ```Channel```
+ > [📣 LS Tunnel 📣](https://t.me/lstunnel)  ```Channel```
 
 #### Credit
 - All binary owners
