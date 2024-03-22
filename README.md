@@ -10,7 +10,7 @@
 sudo -s
 ```
 ```
-curl -sSL https://kutt.it/voltsshxultimate -o inst.sh && bash inst.sh
+curl -sSL https://bit.ly/voltsshXUltimate -o inst.sh && bash inst.sh
 
 ```
 
