@@ -14,6 +14,12 @@ curl -sSL https://bit.ly/voltsshXUltimate -o inst.sh && bash inst.sh
 
 ```
 
+#### Edit/modify SSH-Banner
+
+```
+nano /etc/bnrvps && systemctl restart dropbear
+```
+
 <center><img src="https://github.com/prjkt-nv404/voltsshX-Ultimate/raw/main/assets/voltsshXUltimate.png" alt="banner" width="500"/></center>
 
 
