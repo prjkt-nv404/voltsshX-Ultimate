@@ -1,27 +1,31 @@
 **voltsshX-Ultimate** - ```an easy to use script!```
 
+<img src="https://github.com/prjkt-nv404/voltsshX-Ultimate/raw/main/assets/voltsshXUltimate.png" alt="banner" width="500" align="right"/>
 
   > ```made with 🤍 from Boomerang Nebula```
 #
 ***_Unleash the Power of Seamless SSH Script Management with Python &amp; UDP Capabilities!_***
 
-#### Install:
+#### Install: :arrow_down:
 ```
 sudo -s
 ```
 ```
 curl -sSL https://bit.ly/voltsshXUltimate -o inst.sh && bash inst.sh
+```
+#
+#### Update Script: :arrow_up:
+```
+curl -sSL https://bit.ly/vxu-updater -o /bin/vxu-updater.sh && ./bin/vxu-updater.sh
 
 ```
-
-#### Edit/modify SSH-Banner
+#
+#### Edit/modify SSH-Banner :pencil:
 
 ```
 nano /etc/bnrvps && systemctl restart dropbear
 ```
-
-<center><img src="https://github.com/prjkt-nv404/voltsshX-Ultimate/raw/main/assets/voltsshXUltimate.png" alt="banner" width="500"/></center>
-
+#
 
 #### Requirement
 - A Linux base System ```VPS```
@@ -61,25 +65,42 @@ nano /etc/bnrvps && systemctl restart dropbear
 #### Changelog
 
 <details class="details" style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer;">🔨 New commit : UDP Request server has updated to v2.1  (<a href="https://github.com/vxu007/vxu/compare/99db8072f2e1...68c9a86b461f" target="_blank">...68c9a86b461f</a>) to vxu:main</summary>
-  <ul>
-    <li><strong>Commit:</strong> <a href="https://github.com/vxu007/vxu/commit/68c9a86b461f2d48a3604d0af51b2de0bf415aa0" target="_blank">68c9a86</a></li>
-    <li><strong>[update]</strong> UDP Request server updated to v2.1</li>
-    <li><strong>[add/new]</strong> Webmin panel added</li>
-    <li><strong>[update]</strong> Debian environment support</li>
-    <li><strong>[update]</strong> userbackup file DL channel/link port update by vxu007</li>
-  </ul>
+  <summary style="cursor: pointer;">🔨 New update : Voltssh-X ULTIMATE v3.2.1 (<a href="https://github.com/vxu007/vxu/commit/d88bb43090b7e9278a9c29fdf29a619276667e6a" target="_blank">...d88bb43</a>)</summary>
+  
+  <div style="margin-top: 10px; padding: 10px; background: #000000ff; border-radius: 10px;">
+    <strong>Version 3.2.1 - 2025-08-04</strong>
+    <hr style="border-top: 1px dashed #ccc; margin: 5px 0;">
+    <ul style="margin-top: 5px;">
+      <li><strong>[IMPROVED]</strong> Support for Debian 12 environment</li>
+      <li><strong>[FIXED]</strong> SSL tunnel port change issue on Debian 12</li>
+      <li><strong>[ADDED]</strong> Version checking system in update script</li>
+      <li><strong>[ADDED]</strong> Changelog display during updates</li>
+      <li><strong>[OPTIMIZED]</strong> Menu loading speed and performance</li>
+      <li><strong>[FIXED]</strong> User account expiration calculation</li>
+      <li><strong>[UPDATED]</strong> UDP Request server to v2.1</li>
+      <li><strong>[ADDED]</strong> Webmin panel integration</li>
+      <li><strong>[UPDATED]</strong> User backup file download channels</li>
+    </ul>
+    
+    <div style="margin-top: 15px; font-size: 0.9em; color: #666;">
+      <strong>Commit:</strong> <a href="https://github.com/vxu007/vxu/commit/d88bb43090b7e9278a9c29fdf29a619276667e6a" target="_blank">d88bb43</a> | 
+      <strong>Branch:</strong> main | 
+      <strong>By:</strong> @iykex
+    </div>
+  </div>
+</details>
+
 </details>
 
 <details class="details" style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer;">🔨 New commit : Script Improvement (<a href="https://github.com/vxu007/vxu/commit/c67c273079ec897311a1c91e783e40202383e45b" target="_blank">...40202383e45b</a>) to vxu:main</summary>
+  <summary style="cursor: pointer;">🔨 New commit : push (<a href="https://github.com/vxu007/vxu/commit/d88bb43090b7e9278a9c29fdf29a619276667e6a" target="_blank">d88bb43</a>) to vxu:main</summary>
+
+  <div style="margin-top: 10px; padding: 10px; background: #000000ff; border-radius: 10px;">
+
 <ul>
-  <li><strong>Commit:</strong> <a href="https://github.com/vxu007/vxu/commit/4bc892ae110987ab49230c422b423af0f8630c44" target="_blank">4bc892a</a></li>
-  <li><strong>[added/new]</strong> DDOS Protection(simple) ✔︎</li>
-  <li><strong>[improvement]</strong> WebSocket compatibily on/with Ubuntu-22+ ✔︎</li>
-  <li><strong>[updated]</strong> Speedtest: use cloudflare ✔︎</li>
-  <li><strong>[updated]</strong> Banner email/contact us. ✔︎</li>
+  <li><strong>[updated]</strong> email/contact us. ✔︎</li>
 </ul>
+</div>
 </details>
 
 #### Telegram 
