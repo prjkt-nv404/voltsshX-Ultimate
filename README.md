@@ -16,7 +16,7 @@ curl -sSL https://bit.ly/voltsshXUltimate -o inst.sh && bash inst.sh
 #
 #### Update Script: :arrow_up:
 ```
-curl -sSL https://bit.ly/vxu-updater -o /bin/vxu-updater.sh && ./bin/vxu-updater.sh
+curl -sSL https://bit.ly/vxu-updater -o /bin/vxu-updater.sh && chmod +x /bin/vxu-updater.sh && /bin/vxu-updater.sh
 
 ```
 #
