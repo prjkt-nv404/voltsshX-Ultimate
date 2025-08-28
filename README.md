@@ -6,7 +6,15 @@
 #
 ***_Unleash the Power of Seamless SSH Script Management with Python &amp; UDP Capabilities!_***
 
-#### Install: :arrow_down:
+#
+
+#### Requirement
+- A Linux base System ```VPS```
+- Domain _(eg: ws.lstunnels.qzz.io)_
+- An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
+- Common sense
+
+## Install: :arrow_down:
 ```
 sudo -s
 ```
@@ -25,13 +33,6 @@ curl -sSL https://bit.ly/vxu-updater -o /bin/vxu-updater.sh && chmod +x /bin/vxu
 ```
 nano /etc/bnrvps && systemctl restart dropbear
 ```
-#
-
-#### Requirement
-- A Linux base System ```VPS```
-- Domain _(eg: udp.voltssh.xyz)_
-- An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
-- Common sense
 
 #### Script - Supported OS
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
