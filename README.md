@@ -30,9 +30,9 @@ nano /etc/bnrvps && systemctl restart dropbear
 ```
 
 #### Script - Supported OS
-- ubuntu 20.04 [x86_64] ✅ _(recommended)_
-- ubuntu 22 _(partial)_
-- debian 12 
+- ubuntu 22.04  [x86_64] ✅
+- ubuntu 20.04 [x86_64] ✅
+- debian 11 & 12  [x86_64] ✅
 
 #### Quick Feature Overview
 - Create one user account which serves multiple protocols(```ssh```, ```ssl-tunnel```, ```dropbear```, ```udp custom```, ``` udp request```, ```ws```,    ```ws-epro```).
@@ -42,17 +42,20 @@ nano /etc/bnrvps && systemctl restart dropbear
 - Account password & expiry update.
 - Torrent Blocker
 - Script Autorun on startup.
+- File Browser
+- Webmin
 
 #### Protocols
 - SSH
-- SSL _(coming in future updates)_
+- SSL
 - Dropbear
-- WebSocket(```WS/Python```)
+- Socks
+- WebSocket Standard(```WS/Python```)
 - WebSocket(```WS-ePRO```)
 - UDP Custom
-- UDP Request
+- UDP Request (```Note: broken on some systems```)
 - Hysteria 1&2 (```Note: not all countries supported```)
-- ZiVPN _(coming in future updates)_
+- ZiVPN _(in development)_
 - OpenVPN _(future updates)_
 
 #### Panel Language
@@ -98,7 +101,7 @@ nano /etc/bnrvps && systemctl restart dropbear
 #### Telegram 
  > [💲 Pay 💲](https://t.me/voltverifybot)  ```Installation Keys & Payment```
 
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏 🧑‍💻](https://t.me/voltsshx)  ```Admin```
+ > [👨🏽‍💻 𝑖𝑦𝑘𝑒 𝕏 🧑‍💻](https://t.me/deviyke) | [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏 🧑‍💻](https://t.me/voltsshx)  ```Admin```
 
  > [📣 LS Tunnel 📣](https://t.me/lstunnel)  ```Channel```
 
